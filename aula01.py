@@ -4,7 +4,7 @@ import os
 
 print("O 3ds é a turma numero 1 do Sagrada")
 
-turma="2ds"
+turma="3ds"
 pos=2
 
 print("o" , turma , "é a turma numero ", pos,  "do sagrada ")
